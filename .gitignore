@@ -5,3 +5,6 @@ demo/.settings/
 demo/bin/.project
 demo/bin/.settings/
 demo/target/
+demo/bin
+demo/.class/
+
